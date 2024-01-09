@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghunandan16&show_icons=true&locale=en" alt="raghunandan16" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Raghunandan16)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghunandan16&" alt="raghunandan16" /></p>
