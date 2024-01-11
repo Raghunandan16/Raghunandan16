@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React.js , Node.js , Flutter**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN Stack, Android Development**
 
 - 📫 How to reach me **16raghunandangupta@gmail.com**
 
-- ⚡ Fun fact **I have good sense of humour**
+- ⚡ Fun fact **I have good sense of humour ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
