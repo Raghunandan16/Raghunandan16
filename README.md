@@ -29,6 +29,6 @@
 
 ![raghunandan16's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghunandan16&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghunandan16&show_icons=true&locale=en" alt="raghunandan16" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghunandan16&show_icons=true&locale=en" alt="Raghunandan16" /></p>
 
 ![raghunandan16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghunandan16&theme=default&hide_border=false)
