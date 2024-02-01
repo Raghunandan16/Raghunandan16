@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js , Node.js , Flutter**
 
-- 💬 Ask me about **MERN Stack, Android Development**
+- 💬 Ask me about **MERN, Android**
 
 - 📫 How to reach me **16raghunandangupta@gmail.com**
 
