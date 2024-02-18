@@ -1,5 +1,5 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)](https://www.linkedin.com/in/raghunandan-gupta-optimus/)
-<h1 align="center">Hi 👋, I'm Raghunandan Gupta</h1>
+<h1 align="center">Hi, I'm Raghunandan Gupta</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="Coding Animated" width = "400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzVlNmM2YmUzODk3MjQwOTg3NDNkY2UxZGJlYTBlMWE2ODVkYjUyNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
