@@ -55,7 +55,7 @@
 
 ## 🔮 Tech Stack (Spellbook of Raghunandan)
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,flutter,java,cpp,dart,html,css,tailwind,redux,git,linux" />
 </p>
 
