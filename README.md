@@ -36,18 +36,9 @@
 
 ## 🧙‍♂️ Connect With Me on the Wizarding Web
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/raghunandan-gupta-optimus" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="https://leetcode.com/raghunandan_gupta16" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" />
-  </a>
-  <a href="https://codeforces.com/profile/optimus-16" target="_blank">
-    <img src="https://sta.codeforces.com/s/59546/images/codeforces-logo-with-telegram.png" height="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/16raghunandangupta" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" />
   </a>
 </p>
 
